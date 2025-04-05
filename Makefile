@@ -1,7 +1,7 @@
 .PHONY: run
 run:
-	go run main.go
+	go run cmd/gwc/main.go
 
 .PHONY: build
 build:
-	go build -o bin/gwc main.go
+	go build -o bin/gwc cmd/gwc/main.go

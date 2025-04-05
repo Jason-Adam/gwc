@@ -1,3 +1,3 @@
-module github.com/Jason-Adam/gowc
+module github.com/Jason-Adam/gwc
 
 go 1.24.1
